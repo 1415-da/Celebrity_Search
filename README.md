@@ -31,9 +31,16 @@ Get insights including biography, birth info, historical events, awards, net wor
 - Streamlit  
 - Required Python packages (see below)
 
+### 🌐 Live Demo
+
+👉 [Click here to try the app](https://your-app-link.streamlit.app)
+
+---
 ### Installation
 
 Clone the repo:
    ```bash
    git clone https://github.com/yourusername/celebrity-info-groq.git
    cd celebrity-info-groq
+
+
