@@ -33,7 +33,7 @@ Get insights including biography, birth info, historical events, awards, net wor
 
 ### 🌐 Live Demo
 
-👉 [Click here to try the app](https://your-app-link.streamlit.app)
+👉 [Click here to try the app]([https://your-app-link.streamlit.app)](https://celebritysearch-co4ehtucxzb7aucw2gz8x5.streamlit.app/)
 
 ---
 ### Installation
