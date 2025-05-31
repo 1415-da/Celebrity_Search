@@ -10,7 +10,7 @@ from langchain_groq import ChatGroq
 # Load environment variables
 load_dotenv()
 
-st.title('Celebrity Search Results (Powered by LLaMA3 via Groq)')
+st.title('Celebrity Search Results')
 
 input_text = st.text_input("Search for a celebrity...")
 
